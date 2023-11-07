@@ -8,7 +8,7 @@
   - Node.js
   - Flutter
   - SQL
-  - NoSQL (Mostly MongoDB, but I've worked with firestore.)
+  - NoSQL (Mostly MongoDB, but I've worked with firestore and DynamoDB)
   - Docker
   - Kubernetes 
   - IOT (I love Arduino)
