@@ -13,7 +13,7 @@
   - Kubernetes 
   - IOT (I love Arduino)
   - Gitlab pipelines
-  - AWS - Almost finishing AWS Architecture training.
+  - AWS - Almost finishing AWS Architecture Certification.
 
 - I am passionate about learning. I like to spend hours learning things, from how a Stream works in the JVM to how a complete OS works, so if you're in the same mood let's talk :).
 
